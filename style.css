@@ -1,0 +1,10 @@
+.cardBody {
+
+    position: fixed-bottom;
+    background-color: #cc6600;
+    background: fixed;
+    color: white;
+    width: 30rem;
+    background-color: #007bc1;
+    width: 40%;
+}
